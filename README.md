@@ -1,8 +1,9 @@
 # take-out-food-Sebastian_Edit
 Huang Men Ji! Yummy!
 
-![微信图片_20180407164148](C:\Users\Sebastian\Desktop\微信图片_20180407164148.jpg)
-## 1. 计算优惠前的价格 `initial_costs(input)`
+ ![Tasking](D:\Javascript_learning\take-out-food-Sebastian_Edit\Tasking.jpg)
+
+##1. 计算优惠前的价格 initial_costs(input)
 
 输入：input -- *array*;
 
