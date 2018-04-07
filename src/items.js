@@ -1,4 +1,4 @@
-function loadAllItems() {
+function loadAllItems() { // 获取全部的菜品
   return [{
     id: 'ITEM0001',
     name: '黄焖鸡',
@@ -17,3 +17,5 @@ function loadAllItems() {
     price: 2.00
   }];
 }
+
+module.exports = loadAllItems;
