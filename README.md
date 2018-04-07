@@ -4,7 +4,7 @@ Huang Men Ji! Yummy!
  ![Tasking](https://github.com/AuburnBouquet/take-out-food-Sebastian_Edit/blob/master/Tasking.jpg)
 
 
-## 1. 计算优惠前的价格 initial_costs(input)
+## 1. 计算优惠前的价格 `initial_costs(input)`
 
 输入：input -- *array*;
 
