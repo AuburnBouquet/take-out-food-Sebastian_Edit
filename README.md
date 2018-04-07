@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-
 # take-out-food-Sebastian_Edit
 Huang Men Ji! Yummy!
 
+![微信图片_20180407164148](C:\Users\Sebastian\Desktop\微信图片_20180407164148.jpg)
 ## 1. 计算优惠前的价格 `initial_costs(input)`
 
 输入：input -- *array*;
@@ -27,4 +26,3 @@ Huang Men Ji! Yummy!
 
 输出：result_2 -- *string*
 
->>>>>>> b268e6e791729f21b9f671e0335d067c83ee75f1
