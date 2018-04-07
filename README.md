@@ -1,7 +1,7 @@
 # take-out-food-Sebastian_Edit
 Huang Men Ji! Yummy!
 
- ![Tasking](https://github.com/AuburnBouquet/take-out-food-Sebastian_Edit/Tasking.jpg)
+ ![Tasking](take-out-food-Sebastian_Edit/Tasking.jpg)
 
 ##1. 计算优惠前的价格 initial_costs(input)
 
